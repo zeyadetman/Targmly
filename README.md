@@ -1,5 +1,5 @@
 # Targmly
-Translate to arabic wherever you're.
+Translate to arabic wherever you're. just copy the word!
 
 ##Screenshot:
 ![screenshot1](https://github.com/zeyadetman/Targmly/blob/master/screenshots/screenshot1.jpg)
