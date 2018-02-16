@@ -2,6 +2,9 @@
 Translate to arabic wherever you're.
 
 ##Screenshot:
+![screenshot1](https://github.com/zeyadetman/Targmly/blob/master/screenshots/screenshot1.jpg)
+
+![screenshot2](https://github.com/zeyadetman/Targmly/blob/master/screenshots/screenshot2.jpg)
 
 
 ## How to install?
