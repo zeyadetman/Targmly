@@ -14,7 +14,7 @@ Translate to arabic wherever you're. just copy the word!
 1. install pyperclip `pip install pyperclip`
 
 
-##Docs
+## Docs
 1. http://py-googletrans.readthedocs.io/en/latest/
 1. https://plyer.readthedocs.io/en/latest/
 1. https://github.com/asweigart/pyperclip
