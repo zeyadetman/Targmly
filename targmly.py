@@ -1,6 +1,6 @@
 from googletrans import Translator
 import sys
-from plyer import notification
+from plyer import *
 import time
 import os
 import pyperclip
@@ -12,7 +12,7 @@ def translateMe(word):
         message=translatedWord.text,
         app_name='Targmly',
         ticker='',
-        app_icon='avatar.ico',
+        #app_icon='avatar.ico',
         timeout=10
     )
 
