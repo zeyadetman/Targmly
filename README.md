@@ -10,21 +10,27 @@
 </div>
 
 
-## Screenshot:
+## Screenshots:
 ![screenshot1](https://github.com/zeyadetman/Targmly/blob/master/screenshots/screenshot1.jpg)
 
 ![screenshot2](https://github.com/zeyadetman/Targmly/blob/master/screenshots/screenshot2.jpg)
 
 
-## How to install?
-1. install python 3.6
-1. install googletrans `pip install googletrans`
-1. install plyer `pip install plyer`
-1. install pyperclip `pip install pyperclip`
-1. open the project folder then open cmd and write `python targmly.py`
+## Setup
+***Requirements:***
+1. Python 2 or 3
+1. Pip
+
+***Installation:***
+```bash
+git clone https://github.com/zeyadetman/Targmly.git
+cd Targmly
+pip install -r requirements
+python targmly.py
+```
 
 
-## Docs
+## Docs for contributors
 1. http://py-googletrans.readthedocs.io/en/latest/
 1. https://plyer.readthedocs.io/en/latest/
 1. https://github.com/asweigart/pyperclip
