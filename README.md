@@ -34,3 +34,4 @@ python targmly.py
 1. http://py-googletrans.readthedocs.io/en/latest/
 1. https://plyer.readthedocs.io/en/latest/
 1. https://github.com/asweigart/pyperclip
+.
