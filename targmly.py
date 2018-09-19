@@ -11,7 +11,7 @@ def translateMe(word):
         title=translatedWord.origin,
         message=translatedWord.text,
         app_name='Targmly',
-        ticker='',
+        #ticker='',
         #app_icon='avatar.ico',
         timeout=10
     )

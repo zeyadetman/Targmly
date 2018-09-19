@@ -1,5 +1,8 @@
 <div align="center">
-	<img src="https://raw.githubusercontent.com/zeyadetman/Targmly/master/avatar.ico" width="256" height="256">
+	<img 
+		src="https://raw.githubusercontent.com/zeyadetman/Targmly/master/avatar.ico" 
+		width="256" 
+		height="256">
 	<h1>Targmly</h1>
 	<p>
 		<b>Translate to arabic wherever you're. just copy the word!</b>
